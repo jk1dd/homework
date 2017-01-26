@@ -10,7 +10,8 @@ words (at least) spit out
 4.
 Input text document
 Split and sort words and make them uniform (all downcase)
-Put same words into collection
+  If words are the same
+    put into collection
 Count collection elements, sort by this
 Output words with count
 
